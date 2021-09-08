@@ -34,11 +34,7 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Setup Kubernetes Cluster on AWS & Azure With Multi Cloud Strategy]( )
-- [How to Create a Web UI to Run Commands Using Python CGI Programming]( )
-- [How to Create a Voice-Controlled AI Virtual Assistant Using Python]( )
-- [How to Create Helm Chart from Kubernetes Yaml from Scratch Using Docker Image With AWS & Ansible]( )
-- [Install Wordpress With MySQL On AWS Inside Kubernetes k8s Cluster Using Ansible]( )
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://chaudharysrasthy1528.medium.com/)
