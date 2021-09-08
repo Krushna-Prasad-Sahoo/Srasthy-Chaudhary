@@ -1,16 +1,15 @@
-### ### Hello, I am Srasthy Chaudhary [website] 👋
-
+### Hello, 👋 Srasthy here ...
 [![Website](https://img.shields.io/website?label=chaudharysrasthy1528.medium.com&style=for-the-badge&url=https%3A%2F%2Fchaudharysrasthy1528.medium.com)](https://chaudharysrasthy1528.medium.com/)
 
 ---
 
-I'm a Electronics and communication engineering B.tech student
+I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
-- 🔭 I’m currently working on learning new technologies and creating projects to solve problems by integration  of different technologies
+- 🔭 I’m currently working on learning new technologies and creating projects to solve problems by integration of different technologies.
 
 - 🌱 I’m currently learning about different technologies like **Cloud Computing (AWS, GCP, Azure), Machine Learning, Big Data (Hadoop, Hive) and DevOps Tools Like (Ansible, Kubernetes, Docker, Jenkins)**
 
-- 👯 I have a technical blog on Medium: url:- chaudharysrasthy1528.medium.com where I have written about all the project that. I have done till date with tutorial. ***Do check it***
+- 👯 I have written many technical blogs as well as explained some of my projects in detail. Do check them [here](https://chaudharysrasthy1528.medium.com).
 
 - 💬 I love acquiring new skills other than tech stuff like **Blogging, Data Science, Business Growth, Entrepreneurship, MLOps (I have gained knowledge about these topics and trying to learn more)**
 
