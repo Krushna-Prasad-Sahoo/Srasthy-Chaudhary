@@ -19,7 +19,7 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
 ---
 
-### Connect with me:
+### `Connect with me:`
 
 <a href="https://chaudharysrasthy1528.medium.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
