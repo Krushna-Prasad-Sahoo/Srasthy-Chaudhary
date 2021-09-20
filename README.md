@@ -37,7 +37,7 @@ I've done my Bachelor Of Technology in Electronics & Communication Engineering.
 
 <!-- BLOG-POST-LIST:START -->
 
-https://chaudharysrasthy1528.medium.com/big-data-in-big-companies-99b86ccc5c1a
+- [BigData in Big Companies](https://chaudharysrasthy1528.medium.com/big-data-in-big-companies-99b86ccc5c1a)
 
 https://chaudharysrasthy1528.medium.com/the-amazing-ways-google-uses-artificial-intelligence-and-machine-learning-74bb2ea201d9
 
